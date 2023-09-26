@@ -1,5 +1,15 @@
 # Fantasy Cricket Game in Python
 
+# ScreenShorts
+![image](https://github.com/RawHit02/Fantasy_Cricket_PY/assets/107709247/2c45c0a5-4c49-4397-9929-097a756c8395)
+![image](https://github.com/RawHit02/Fantasy_Cricket_PY/assets/107709247/75729e70-2441-4c4d-8b7f-d979a73ec2a5)
+![image](https://github.com/RawHit02/Fantasy_Cricket_PY/assets/107709247/2d1d7353-2b6e-43a3-8c1d-edb9c338de3f) ![image](https://github.com/RawHit02/Fantasy_Cricket_PY/assets/107709247/f2b0dfc0-1f81-43c6-8246-a0ed09b902b7)
+
+# Internshala
+![image](https://github.com/RawHit02/Fantasy_Cricket_PY/assets/107709247/b5f2c6af-9255-48aa-ada5-c2815ab79051)
+
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -12,7 +22,6 @@
 9. [Contributing](#contributing)
 10. [License](#license)
 
----
 
 ## Introduction
 
